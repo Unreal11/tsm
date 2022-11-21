@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65ddadfd123340f9b42bf9859e22cf4e, type: 3}
+  m_Name: PegasusLancer
+  m_EditorClassIdentifier: 
+  Id: 5c563c78-bfe1-4e6e-be31-b2a6285b4dde
+  Name: PegasusLancer
+  CardImage: {fileID: 21300000, guid: ec30720e322fae74db6272e1a036def9, type: 3}
+  Cost:
+  - Name: Resource_1
+    Value: 18
+    Income: 0
+  Effects:
+  - {fileID: 11400000, guid: 4cd4d4d3b0515fe4ca56072de5dcd364, type: 2}
+  SaveTurn: 0
+  NonDiscard: 0
+  Description: 

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65ddadfd123340f9b42bf9859e22cf4e, type: 3}
+  m_Name: Porticulus
+  m_EditorClassIdentifier: 
+  Id: b59df509-a8dc-48b0-8cd5-2508d99ac63e
+  Name: Porticulus
+  CardImage: {fileID: 21300000, guid: f3771e01f59bd47438e639fe5a7421c7, type: 3}
+  Cost:
+  - Name: Resource_3
+    Value: 9
+    Income: 0
+  Effects:
+  - {fileID: 11400000, guid: 9aa3d930ccaa3c646bcafebe2fd0a09d, type: 2}
+  - {fileID: 11400000, guid: d947bddc9a124cc4faed848cb2db311e, type: 2}
+  SaveTurn: 0
+  NonDiscard: 0
+  Description: 

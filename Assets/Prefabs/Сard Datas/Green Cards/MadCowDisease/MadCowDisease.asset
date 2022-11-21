@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65ddadfd123340f9b42bf9859e22cf4e, type: 3}
+  m_Name: MadCowDisease
+  m_EditorClassIdentifier: 
+  Id: 00020d76-b4de-4264-b362-efb78da72492
+  Name: MadCowDisease
+  CardImage: {fileID: 21300000, guid: 67c7a0aee3ed07e4ebdcee9f6b1df237, type: 3}
+  Cost:
+  - Name: Resource_1
+    Value: 0
+    Income: 0
+  Effects:
+  - {fileID: 11400000, guid: f15678e3ca258ef479329537f3ea7956, type: 2}
+  - {fileID: 11400000, guid: 563ab0c52fcf6304cb2d887ef61b5ce5, type: 2}
+  SaveTurn: 0
+  NonDiscard: 0
+  Description: 

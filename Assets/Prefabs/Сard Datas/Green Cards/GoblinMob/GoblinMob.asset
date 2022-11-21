@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65ddadfd123340f9b42bf9859e22cf4e, type: 3}
+  m_Name: GoblinMob
+  m_EditorClassIdentifier: 
+  Id: 0ee2d574-a7a8-4f2d-b109-cfd729791e4e
+  Name: GoblinMob
+  CardImage: {fileID: 21300000, guid: fb3f53003f38ac24f98d853a29963205, type: 3}
+  Cost:
+  - Name: Resource_1
+    Value: 3
+    Income: 0
+  Effects:
+  - {fileID: 11400000, guid: 31e7026339f0397468faa7c4cf72804f, type: 2}
+  - {fileID: 11400000, guid: 6ccb2e866d0efc9488aca43b6552431d, type: 2}
+  SaveTurn: 0
+  NonDiscard: 0
+  Description: 

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65ddadfd123340f9b42bf9859e22cf4e, type: 3}
+  m_Name: NewEquipment
+  m_EditorClassIdentifier: 
+  Id: f9bd8082-aa16-4d8a-997f-7386a1b406b8
+  Name: NewEquipment
+  CardImage: {fileID: 21300000, guid: f667b214e1240a8449075115e1579f78, type: 3}
+  Cost:
+  - Name: Resource_3
+    Value: 6
+    Income: 0
+  Effects:
+  - {fileID: 11400000, guid: d739fecd055411546acf2b8ca0def6f3, type: 2}
+  SaveTurn: 0
+  NonDiscard: 0
+  Description: 

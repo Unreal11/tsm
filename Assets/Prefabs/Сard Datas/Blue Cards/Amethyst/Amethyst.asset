@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65ddadfd123340f9b42bf9859e22cf4e, type: 3}
+  m_Name: Amethyst
+  m_EditorClassIdentifier: 
+  Id: 07a9dc29-df7d-45f9-a36b-f0903e0ee46d
+  Name: Amethyst
+  CardImage: {fileID: 21300000, guid: b26cad1ea30aa6b419859fb720920e87, type: 3}
+  Cost:
+  - Name: Resource_2
+    Value: 5
+    Income: 0
+  Effects:
+  - {fileID: 11400000, guid: 7356687a9e5a49d49a0884b1c93f5bd0, type: 2}
+  SaveTurn: 0
+  NonDiscard: 0
+  Description: 

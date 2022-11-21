@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65ddadfd123340f9b42bf9859e22cf4e, type: 3}
+  m_Name: PearlOfWisdom
+  m_EditorClassIdentifier: 
+  Id: d95e19dc-fe2a-4546-b043-d6c472d18a73
+  Name: PearlOfWisdom
+  CardImage: {fileID: 21300000, guid: 45bc65b34deb1a3438fb8aca49ded02f, type: 3}
+  Cost:
+  - Name: Resource_2
+    Value: 9
+    Income: 0
+  Effects:
+  - {fileID: 11400000, guid: 183dc6eccb143194d9c966dab64eb9aa, type: 2}
+  - {fileID: 11400000, guid: 159b31f75347c254085d037a957b2b2d, type: 2}
+  SaveTurn: 0
+  NonDiscard: 0
+  Description: 

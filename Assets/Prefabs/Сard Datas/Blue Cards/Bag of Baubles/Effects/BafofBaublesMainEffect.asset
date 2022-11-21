@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db680d9bd82c79745af4be6802ea6254, type: 3}
+  m_Name: BafofBaublesMainEffect
+  m_EditorClassIdentifier: 
+  trueEffects:
+  - {fileID: 11400000, guid: 839a713678d1a3a41b5847945b509245, type: 2}
+  falseEffects:
+  - {fileID: 11400000, guid: 6d38ef48a714df145a84b83a2bc33916, type: 2}

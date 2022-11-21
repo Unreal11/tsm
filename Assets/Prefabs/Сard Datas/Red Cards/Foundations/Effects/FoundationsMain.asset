@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ba907b8cfd54206821fa96ba96bcc28, type: 3}
+  m_Name: FoundationsMain
+  m_EditorClassIdentifier: 
+  trueEffects:
+  - {fileID: 11400000, guid: 3d04addbf30fe874499ee8ee2964456c, type: 2}
+  falseEffects:
+  - {fileID: 11400000, guid: cdbe31668cdc96d4e8ff94cc6af06e12, type: 2}

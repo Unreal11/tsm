@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65ddadfd123340f9b42bf9859e22cf4e, type: 3}
+  m_Name: RabidSheep
+  m_EditorClassIdentifier: 
+  Id: 4c8a614c-854b-4d54-b9c8-afae3bd87eb5
+  Name: RabidSheep
+  CardImage: {fileID: 21300000, guid: 5c2a77eb887f9564aa0489bdebd6a4f6, type: 3}
+  Cost:
+  - Name: Resource_1
+    Value: 6
+    Income: 0
+  Effects:
+  - {fileID: 11400000, guid: 90ef925c85e6d7942bb030f9645b328f, type: 2}
+  - {fileID: 11400000, guid: 0aa8acdd01536f9479bf81dc75cbf262, type: 2}
+  SaveTurn: 0
+  NonDiscard: 0
+  Description: 

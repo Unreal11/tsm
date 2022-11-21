@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e44805d4-4158-4dff-ad70-4ce0ee73cb8a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00000.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00001.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00002.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00003.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00004.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00005.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00006.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00007.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00008.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00009.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00010.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00011.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00011.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00012.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00012.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00013.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00013.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00014.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00014.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00015.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00015.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00016.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00016.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00017.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00017.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00018.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00018.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00019.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00019.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00020.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00020.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00021.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00021.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00022.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00022.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00023.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00023.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00024.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00024.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00025.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00025.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00026.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00026.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00027.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00027.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00028.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00028.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00029.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00029.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00030.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00030.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00031.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00031.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00032.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00032.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00033.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00033.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00034.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00034.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00035.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00035.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00036.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00036.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00037.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00037.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00038.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00038.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00039.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00039.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00040.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00040.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00041.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00041.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00042.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00042.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00043.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00043.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00044.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00044.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00045.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00045.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00046.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00046.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00047.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00047.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00048.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00048.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00049.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00049.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00050.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00050.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00051.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00051.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00052.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00052.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00053.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00053.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00054.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00054.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00055.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00055.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00056.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00056.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00057.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00057.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00058.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00058.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00059.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00059.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00060.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00060.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00061.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00061.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00062.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00062.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00063.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00063.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00064.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00064.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00065.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00065.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00066.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00066.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00067.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00067.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00068.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00068.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00069.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00069.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00070.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00070.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00071.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00071.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00072.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00072.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00073.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00073.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00074.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Animations/BlueFlag/Синий флаг_00074.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TowerSmash/.idea/shelf/Uncommitted_changes_before_Update_at_27_04_2022_23_43__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TowerSmash/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TowerSmash/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Battle.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Battle.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/BattleScene/BattleBackground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/BattleScene/BattleBackground.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="TS-animations" />
+      </map>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="recentNewPullRequestHead">
+      <RepoCoordinatesHolder>
+        <option name="owner" value="Validay" />
+        <option name="repository" value="TowerSmash" />
+      </RepoCoordinatesHolder>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/Downloads/Unity Drag and Drop Tutorial - Part 3/Unity Drag and Drop Tutorial - Part 3/Assets/Draggable.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/Client/AuthClientController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/Cards/Effects/Effect.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/Cards/Effects/DamageEffect.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Downloads/Unity Drag and Drop Tutorial - Part 3/Unity Drag and Drop Tutorial - Part 3/Assets/DropZone.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/Contracts/MatchRequestType.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="27hujN12FIpL7yRwWrqHUYdCp7L" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="rider.run.widget.enabled.cache" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/../tsBuild1920x1080\Tower Smash.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="D:\Projects\tsBuild1920x1080" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e44805d4-4158-4dff-ad70-4ce0ee73cb8a" name="Changes" comment="" />
+      <created>1649784777332</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649784777332</updated>
+      <workItem from="1649784784239" duration="1309000" />
+      <workItem from="1649789331406" duration="2923000" />
+      <workItem from="1649871817624" duration="5840000" />
+      <workItem from="1649878886417" duration="395000" />
+      <workItem from="1650132481196" duration="1733000" />
+      <workItem from="1650389009793" duration="14604000" />
+      <workItem from="1650645055984" duration="7533000" />
+      <workItem from="1650747865154" duration="84000" />
+      <workItem from="1651143800079" duration="3558000" />
+      <workItem from="1651243696008" duration="2226000" />
+    </task>
+    <task id="LOCAL-00001" summary="menu ui and options added">
+      <created>1649878574794</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1649878574794</updated>
+    </task>
+    <task id="LOCAL-00002" summary="battle scene and ui added">
+      <created>1650142093694</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1650142093694</updated>
+    </task>
+    <task id="LOCAL-00003" summary="card animations and battle menu ui added">
+      <created>1650571760603</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1650571760603</updated>
+    </task>
+    <task id="LOCAL-00004" summary="save setting on game exit added">
+      <created>1650828390800</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1650828390800</updated>
+    </task>
+    <task id="LOCAL-00005" summary="main menu scene changed">
+      <created>1651177939892</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1651177939892</updated>
+    </task>
+    <task id="LOCAL-00006" summary="menu scene changed">
+      <created>1651179878976</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1651179878976</updated>
+    </task>
+    <task id="LOCAL-00007" summary="service commit">
+      <created>1651179957356</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1651179957356</updated>
+    </task>
+    <task id="LOCAL-00008" summary="cloud added and button moved lower">
+      <created>1651181089891</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1651181089891</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="menu ui and options added" />
+    <MESSAGE value="battle scene and ui added" />
+    <MESSAGE value="card animations and battle menu ui added" />
+    <MESSAGE value="save setting on game exit added" />
+    <MESSAGE value="main menu scene changed" />
+    <MESSAGE value="menu scene changed" />
+    <MESSAGE value="service commit" />
+    <MESSAGE value="cloud added and button moved lower" />
+    <option name="LAST_COMMIT_MESSAGE" value="cloud added and button moved lower" />
+  </component>
+</project>

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65ddadfd123340f9b42bf9859e22cf4e, type: 3}
+  m_Name: Emerald
+  m_EditorClassIdentifier: 
+  Id: 86dd60f0-e4ce-410f-ac83-4c8e8e76b265
+  Name: Emerald
+  CardImage: {fileID: 21300000, guid: d633c3aa775c45a4989a13cb4584fc75, type: 3}
+  Cost:
+  - Name: Resource_2
+    Value: 6
+    Income: 0
+  Effects:
+  - {fileID: 11400000, guid: e039f02f3c9420a42bbd55c9181208d8, type: 2}
+  SaveTurn: 0
+  NonDiscard: 0
+  Description: 

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65ddadfd123340f9b42bf9859e22cf4e, type: 3}
+  m_Name: Battlements
+  m_EditorClassIdentifier: 
+  Id: bcb7dbba-ef54-4274-9d4a-98ce6f58860e
+  Name: Battlements
+  CardImage: {fileID: 21300000, guid: 0b393569dde97014188a6e4126400ed1, type: 3}
+  Cost:
+  - Name: Resource_3
+    Value: 14
+    Income: 0
+  Effects:
+  - {fileID: 11400000, guid: d1d09f3143240f5479ddc8f4f542a7a0, type: 2}
+  - {fileID: 11400000, guid: a1b8123ed97b9874a9ccdfba960f8204, type: 2}
+  SaveTurn: 0
+  NonDiscard: 0
+  Description: 

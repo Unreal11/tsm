@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65ddadfd123340f9b42bf9859e22cf4e, type: 3}
+  m_Name: RockLauncher
+  m_EditorClassIdentifier: 
+  Id: 5ce6d60b-ff98-44e8-9484-17b1c626abbc
+  Name: RockLauncher
+  CardImage: {fileID: 21300000, guid: f81837c0b7f56d94a8761e7cdcda0d8a, type: 3}
+  Cost:
+  - Name: Resource_3
+    Value: 18
+    Income: 0
+  Effects:
+  - {fileID: 11400000, guid: 5096265224f7f024d9a64a9c6ef814b3, type: 2}
+  - {fileID: 11400000, guid: fa64e49627f3f754ab565040a33632ff, type: 2}
+  SaveTurn: 0
+  NonDiscard: 0
+  Description: 

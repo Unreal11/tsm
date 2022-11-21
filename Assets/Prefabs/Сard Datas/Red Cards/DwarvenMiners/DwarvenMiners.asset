@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65ddadfd123340f9b42bf9859e22cf4e, type: 3}
+  m_Name: DwarvenMiners
+  m_EditorClassIdentifier: 
+  Id: e9404211-c01c-4a2b-aa62-948abf7ff988
+  Name: DwarvenMiners
+  CardImage: {fileID: 21300000, guid: 2f205a4b5a407594ab630510e7b1ed39, type: 3}
+  Cost:
+  - Name: Resource_3
+    Value: 7
+    Income: 0
+  Effects:
+  - {fileID: 11400000, guid: a00942ede1d5dc044845b70dce93cca5, type: 2}
+  - {fileID: 11400000, guid: 1b139b86513ebe44d8a8ccf887dc6cba, type: 2}
+  SaveTurn: 0
+  NonDiscard: 0
+  Description: 

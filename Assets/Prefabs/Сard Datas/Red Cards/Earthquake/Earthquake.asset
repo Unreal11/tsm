@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65ddadfd123340f9b42bf9859e22cf4e, type: 3}
+  m_Name: Earthquake
+  m_EditorClassIdentifier: 
+  Id: e158a55d-a836-42e7-a091-565aedcc1a4b
+  Name: Earthquake
+  CardImage: {fileID: 21300000, guid: 3fa96ade13ed4d44197e71283a9c7e76, type: 3}
+  Cost:
+  - Name: Resource_3
+    Value: 0
+    Income: 0
+  Effects:
+  - {fileID: 11400000, guid: b20a7da4925776f4681407ccbfca3237, type: 2}
+  - {fileID: 11400000, guid: 56488f5e9f4df0d46b9daf909a56c3b9, type: 2}
+  SaveTurn: 0
+  NonDiscard: 0
+  Description: 

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65ddadfd123340f9b42bf9859e22cf4e, type: 3}
+  m_Name: Innovations
+  m_EditorClassIdentifier: 
+  Id: 1cf7349e-acd3-46d2-bc30-af276a631877
+  Name: Innovations
+  CardImage: {fileID: 21300000, guid: 47d192ba80cd85c4aa583c6d963969fa, type: 3}
+  Cost:
+  - Name: Resource_3
+    Value: 2
+    Income: 0
+  Effects:
+  - {fileID: 11400000, guid: 2a259622eb4313b4482494dbdd5202b2, type: 2}
+  - {fileID: 11400000, guid: 20f569a5fcb17924697338627a61a3d5, type: 2}
+  - {fileID: 11400000, guid: 0743faa478ba60d4e99d03627ea5d6fc, type: 2}
+  SaveTurn: 0
+  NonDiscard: 0
+  Description: 
